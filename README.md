@@ -7,6 +7,11 @@ The workflow aimed is:
 
 ## Getting Started
 
+After cloning the repo, do not forget to update roact submodule:
+```bash
+git submodule update --init`
+```
+
 Open the source folder in VSCode, click "Start Rojo", or alternatively:
 
 ```bash
